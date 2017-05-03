@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/username/repository.git"
+    "url": "git://github.com/imerarz/demo02"
   },
   "scripts": {},
   "author": "Eduardo Ramirez",
