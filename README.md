@@ -1,0 +1,1 @@
+A project to development software with browserify.

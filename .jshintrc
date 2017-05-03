@@ -1,3 +1,4 @@
 {
-  "globalstrict": true.jshintrc
+  "globalstrict": true,
+  "esversion": 6
 }
